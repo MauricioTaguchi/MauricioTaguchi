@@ -1,6 +1,6 @@
 # Olá, eu sou Maurício Ryo Toita Taguchi 👋
 
-Sou formado/estudante de Ciência da Computação, com foco em **Análise de Dados, Business Intelligence, Java, Spring Boot, Python, SQL, Power BI e Inteligência Artificial aplicada**.
+Sou estudante de Ciência da Computação, com foco em **Análise de Dados, Business Intelligence, Java, Spring Boot, Python, SQL, Power BI e Inteligência Artificial aplicada**.
 
 Tenho experiência com projetos envolvendo **ETL, análise exploratória de dados, dashboards, APIs REST, automação de processos e desenvolvimento de soluções com IA aplicada**.
 
