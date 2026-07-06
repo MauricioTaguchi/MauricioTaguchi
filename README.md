@@ -1,52 +1,52 @@
-# Olá, eu sou Maurício Ryo Toita Taguchi 👋
+# Hello, I'm Maurício Ryo Toita Taguchi 👋
 
-Sou estudante de Ciência da Computação, com foco em **Análise de Dados, Business Intelligence, Java, Spring Boot, Python, SQL, Power BI e Inteligência Artificial aplicada**.
+I am a Computer Science student focusing on **Data Analysis, Business Intelligence, Java, Spring Boot, Python, SQL, Power BI, and Applied Artificial Intelligence**.
 
-Tenho experiência com projetos envolvendo **ETL, análise exploratória de dados, dashboards, APIs REST, automação de processos e desenvolvimento de soluções com IA aplicada**.
+I have experience with projects involving **ETL, exploratory data analysis, dashboards, REST APIs, process automation, and the development of applied AI solutions**.
 
-## 🚀 Áreas de Interesse
+## 🚀 Areas of Interest
 
-* Análise de Dados
+* Data Analysis
 * Business Intelligence
-* Desenvolvimento Backend Java
-* APIs REST
-* Automação de Processos
-* Inteligência Artificial aplicada
-* SQL e modelagem de dados
+* Java Backend Development
+* REST APIs
+* Process Automation
+* Applied Artificial Intelligence
+* SQL and Data Modeling
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
-**Linguagens:**
+**Languages:**
 Python, Java, SQL, R
 
-**Dados e BI:**
+**Data & BI:**
 Power BI, Excel, Jupyter Notebook, Pandas, SQL
 
 **Backend:**
-Java, Spring Boot, APIs REST, Maven
+Java, Spring Boot, REST APIs, Maven
 
-**Ferramentas:**
+**Tools:**
 Git, GitHub, VS Code, IntelliJ IDEA
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
 ### Smart Budget AI API
 
-API inteligente de orçamento financeiro desenvolvida com Java, Spring Boot e Spring AI, com comandos em texto e voz, persistência de dados, Tool Calling e respostas em áudio.
+An intelligent financial budgeting API developed using Java, Spring Boot, and Spring AI, featuring text and voice commands, data persistence, Tool Calling, and audio responses.
 
-### Análise de Renda no Brasil
+### Income Analysis in Brazil
 
-Projeto completo de análise de dados utilizando dados públicos, com etapas de ETL, análise exploratória, consultas SQL e dashboard em Power BI.
+A comprehensive data analysis project using public data, covering ETL stages, exploratory analysis, SQL queries, and a Power BI dashboard.
 
 ### FocusBoard
 
-Aplicação desktop em Java para gerenciamento de tarefas, com persistência local, filtros, busca e estrutura organizada com Maven.
+A Java desktop application for task management, featuring local persistence, filtering, search capabilities, and a project structure organized with Maven.
 
 ### Finance Flow API
 
-API REST para controle financeiro desenvolvida com Java e Spring Boot, aplicando conceitos de arquitetura backend e padrões de projeto.
+A REST API for financial tracking developed with Java and Spring Boot, applying backend architecture concepts and design patterns.
 
-## 📫 Contato
+## 📫 Contact
 
 * GitHub: https://github.com/MauricioTaguchi
 * LinkedIn: https://www.linkedin.com/in/mauriciotaguchi/
