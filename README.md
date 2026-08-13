@@ -1,33 +1,32 @@
 # Hi, I'm Maurício Taguchi
 
-Data Analyst and Computer Science student based in São Paulo, Brazil. I have 1 year and 7 months of professional experience at FIPE working with economic data collection, cleaning, validation, analysis, automation, and reporting.
+**Data Analyst | Power BI, SQL & Python | ETL, data quality and analytics engineering**
 
-I build data products that connect **business questions, reliable pipelines, and clear decision support**.
+Computer Science student based in São Paulo with **1 year and 7 months of professional experience at FIPE**, working with economic data collection, cleaning, validation, analysis, automation and reporting.
 
-## What I work with
+I build data products that connect **business questions, reliable pipelines and clear decision support**. My portfolio combines analytics and BI with production-minded software engineering practices such as automated tests, CI, observability and secure API design.
 
-- **Analytics and BI:** Power BI, DAX, SQL, Excel, exploratory analysis, KPI design
-- **Data engineering foundations:** Python, Pandas, ETL/ELT, PostgreSQL, data modeling, quality checks
-- **Product engineering:** FastAPI, REST APIs, React, TypeScript, Docker, Redis, Celery, GitHub Actions
-- **Additional experience:** R, Java, Spring Boot, applied AI integrations
+## Core stack
 
-## Featured work
+- **Analytics & BI:** Power BI, DAX, SQL, Excel, KPI design and exploratory analysis
+- **Data engineering:** Python, Pandas, ETL/ELT, PostgreSQL, data modeling and quality checks
+- **Backend & platforms:** FastAPI, Java, Spring Boot, REST APIs, Docker, Redis and Celery
+- **Frontend & delivery:** React, TypeScript, GitHub Actions, automated testing and CI/CD
+- **Additional experience:** R and applied AI integrations
 
-### [DataFlow — Full-stack data quality workspace](https://github.com/MauricioTaguchi/data-analytics-platform)
+## Selected projects
 
-A production-minded analytics platform built with FastAPI, React, PostgreSQL, Redis, Celery, and Docker. It covers authenticated dataset upload, profiling, transformations, lineage, undo, export, automated tests, and CI.
-
-### [Brazilian income analysis — synthetic portfolio case study](https://github.com/MauricioTaguchi/analise-renda-brasil)
-
-An end-to-end analytics case study using a clearly identified synthetic dataset inspired by Brazilian regional indicators. It includes ETL, exploratory analysis, SQL, KPI definitions, Power BI specifications, and an executive summary of findings.
-
-### [Smart Budget AI API](https://github.com/MauricioTaguchi/smart-budget-ai-api)
-
-A Java and Spring Boot financial assistant API with text and voice commands, persistence, validation, layered architecture, tool calling, audit records, and automated tests.
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [DataFlow](https://github.com/MauricioTaguchi/data-analytics-platform) | Full-stack data quality workspace with authentication, upload, profiling, reversible transformations, lineage, export, guided onboarding and end-to-end tests | FastAPI, React, PostgreSQL, Redis, Celery, Docker |
+| [Brazilian Income Analysis](https://github.com/MauricioTaguchi/analise-renda-brasil) | Reproducible pipeline using official IBGE/SIDRA data, coverage validation for all 27 states, analytical layers, dashboard and executive summary | Python, Pandas, SQL, Pytest, GitHub Actions |
+| [Smart Budget AI API](https://github.com/MauricioTaguchi/smart-budget-ai-api) | Financial assistant API with confirmation for AI-assisted operations, prompt-injection safeguards, redacted auditing and production observability | Java, Spring Boot, Spring AI, PostgreSQL, Docker |
+| [FinanceFlow](https://github.com/MauricioTaguchi/finance-flow-api) | Financial API focused on domain invariants, design patterns, transactional events and automated quality gates | Java, Spring Boot, JUnit, JaCoCo |
+| [FocusBoard](https://github.com/MauricioTaguchi/focusboard) | Desktop task manager with resilient atomic persistence, CSV import/export and automated tests | Java, Swing, Maven |
 
 ## What I am looking for
 
-I am open to opportunities as a **Data Analyst**, **BI Analyst**, or **Junior Analytics Engineer**, in Brazil or remotely. I work in Portuguese and English.
+I am open to opportunities as a **Data Analyst**, **BI Analyst** or **Junior Analytics Engineer**, in Brazil or remotely. I work in Portuguese and English.
 
 ## Contact
 
