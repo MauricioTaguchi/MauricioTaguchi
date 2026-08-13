@@ -1,52 +1,35 @@
-# Hello, I'm Maurício Ryo Toita Taguchi 👋
+# Hi, I'm Maurício Taguchi
 
-I am a Computer Science student focusing on **Data Analysis, Business Intelligence, Java, Spring Boot, Python, SQL, Power BI, and Applied Artificial Intelligence**.
+Data Analyst and Computer Science student based in São Paulo, Brazil. I have 1 year and 7 months of professional experience at FIPE working with economic data collection, cleaning, validation, analysis, automation, and reporting.
 
-I have experience with projects involving **ETL, exploratory data analysis, dashboards, REST APIs, process automation, and the development of applied AI solutions**.
+I build data products that connect **business questions, reliable pipelines, and clear decision support**.
 
-## 🚀 Areas of Interest
+## What I work with
 
-* Data Analysis
-* Business Intelligence
-* Java Backend Development
-* REST APIs
-* Process Automation
-* Applied Artificial Intelligence
-* SQL and Data Modeling
+- **Analytics and BI:** Power BI, DAX, SQL, Excel, exploratory analysis, KPI design
+- **Data engineering foundations:** Python, Pandas, ETL/ELT, PostgreSQL, data modeling, quality checks
+- **Product engineering:** FastAPI, REST APIs, React, TypeScript, Docker, Redis, Celery, GitHub Actions
+- **Additional experience:** R, Java, Spring Boot, applied AI integrations
 
-## 🛠️ Technologies
+## Featured work
 
-**Languages:**
-Python, Java, SQL, R
+### [DataFlow — Full-stack data quality workspace](https://github.com/MauricioTaguchi/data-analytics-platform)
 
-**Data & BI:**
-Power BI, Excel, Jupyter Notebook, Pandas, SQL
+A production-minded analytics platform built with FastAPI, React, PostgreSQL, Redis, Celery, and Docker. It covers authenticated dataset upload, profiling, transformations, lineage, undo, export, automated tests, and CI.
 
-**Backend:**
-Java, Spring Boot, REST APIs, Maven
+### [Brazilian income analysis — synthetic portfolio case study](https://github.com/MauricioTaguchi/analise-renda-brasil)
 
-**Tools:**
-Git, GitHub, VS Code, IntelliJ IDEA
+An end-to-end analytics case study using a clearly identified synthetic dataset inspired by Brazilian regional indicators. It includes ETL, exploratory analysis, SQL, KPI definitions, Power BI specifications, and an executive summary of findings.
 
-## 📌 Featured Projects
+### [Smart Budget AI API](https://github.com/MauricioTaguchi/smart-budget-ai-api)
 
-### Smart Budget AI API
+A Java and Spring Boot financial assistant API with text and voice commands, persistence, validation, layered architecture, tool calling, audit records, and automated tests.
 
-An intelligent financial budgeting API developed using Java, Spring Boot, and Spring AI, featuring text and voice commands, data persistence, Tool Calling, and audio responses.
+## What I am looking for
 
-### Income Analysis in Brazil
+I am open to opportunities as a **Data Analyst**, **BI Analyst**, or **Junior Analytics Engineer**, in Brazil or remotely. I work in Portuguese and English.
 
-A comprehensive data analysis project using public data, covering ETL stages, exploratory analysis, SQL queries, and a Power BI dashboard.
+## Contact
 
-### FocusBoard
-
-A Java desktop application for task management, featuring local persistence, filtering, search capabilities, and a project structure organized with Maven.
-
-### Finance Flow API
-
-A REST API for financial tracking developed with Java and Spring Boot, applying backend architecture concepts and design patterns.
-
-## 📫 Contact
-
-* GitHub: https://github.com/MauricioTaguchi
-* LinkedIn: https://www.linkedin.com/in/mauriciotaguchi/
+- [LinkedIn](https://www.linkedin.com/in/mauriciotaguchi/)
+- [GitHub](https://github.com/MauricioTaguchi)
