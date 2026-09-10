@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/MauricioTaguchi">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6D28D9,100:4338CA&amp;height=230&amp;section=header&amp;text=Maur%C3%ADcio%20Taguchi&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=SOFTWARE%20ENGINEERING%20%7C%20DATA%20PLATFORMS%20%7C%20APPLIED%20AI&amp;descSize=14&amp;descAlignY=57" alt="Maurício Taguchi — Software Engineering, Data Platforms and Applied AI" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6D28D9,100:4338CA&amp;height=230&amp;section=header&amp;text=Maur%C3%ADcio%20Taguchi&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Data%20Analyst%20%7C%20Power%20BI%2C%20SQL%20%26%20Python%20%7C%20ETL&amp;descSize=14&amp;descAlignY=57" alt="Maurício Taguchi — Data Analyst | Power BI, SQL &amp; Python | ETL" />
 </a>
 
 <a href="https://github.com/MauricioTaguchi#about">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=52&amp;lines=Engineering+reliable+software+and+data+products.;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+React;Full-stack+applications.+Applied+AI.+Clear+decisions." alt="Animated introduction: reliable software, data products, full-stack applications and applied AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=52&amp;lines=Data+Analyst+%7C+Power+BI%2C+SQL+%26+Python+%7C+ETL;Turning+data+into+clear+decisions.;Data+quality%2C+automation+and+analytics." alt="Animated introduction: data analysis, Power BI, SQL, Python, ETL and automation" />
 </a>
 
 <br />
@@ -355,7 +355,7 @@ The provider links below are certification and learning resources. No AWS, Oracl
 <div align="center">
 
 <a href="https://github.com/MauricioTaguchi">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MauricioTaguchi&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;icon_color=818CF8&amp;border_radius=12" alt="Maurício Taguchi's GitHub statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MauricioTaguchi&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;icon_color=818CF8&amp;border_radius=12" alt="Maurício Taguchi's GitHub statistics" />
 </a>
 <a href="https://github.com/MauricioTaguchi?tab=overview">
   <img width="49%" src="https://streak-stats.demolab.com?user=MauricioTaguchi&amp;hide_border=true&amp;background=0D1117&amp;stroke=312E81&amp;ring=8B5CF6&amp;fire=A78BFA&amp;currStreakNum=E0E7FF&amp;sideNums=E0E7FF&amp;currStreakLabel=A78BFA&amp;sideLabels=818CF8&amp;dates=94A3B8&amp;border_radius=12" alt="Maurício Taguchi's GitHub contribution streak" />
@@ -365,7 +365,7 @@ The provider links below are certification and learning resources. No AWS, Oracl
 <br />
 
 <a href="https://github.com/MauricioTaguchi?tab=repositories">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioTaguchi&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;border_radius=12" alt="Language distribution across Maurício Taguchi's public repositories" />
+  <img width="58%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MauricioTaguchi&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;border_radius=12" alt="Language distribution across Maurício Taguchi's public repositories" />
 </a>
 
 <br />
@@ -381,7 +381,7 @@ The provider links below are certification and learning resources. No AWS, Oracl
 <div align="center">
 
 <a href="https://github.com/MauricioTaguchi">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MauricioTaguchi&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=12&amp;margin-h=12" alt="Automatically generated GitHub activity trophies for Maurício Taguchi" />
+  <img width="100%" src="https://github-profile-trophy-unserori.vercel.app/?username=MauricioTaguchi&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=12&amp;margin-h=12" alt="Automatically generated GitHub activity trophies for Maurício Taguchi" />
 </a>
 
 </div>
@@ -392,9 +392,7 @@ The provider links below are certification and learning resources. No AWS, Oracl
 
 <div align="center">
 
-<a href="https://github.com/MauricioTaguchi?tab=overview">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioTaguchi&amp;bg_color=0D1117&amp;color=A78BFA&amp;line=818CF8&amp;point=C4B5FD&amp;area=true&amp;area_color=6D28D9&amp;hide_border=true&amp;radius=12&amp;custom_title=Maur%C3%ADcio%20Taguchi%20%7C%20Contribution%20Activity" alt="Maurício Taguchi's recent GitHub contribution activity" />
-</a>
+[![View Contribution Activity](https://img.shields.io/badge/View_Contribution_Activity-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MauricioTaguchi?tab=overview)
 
 </div>
 
