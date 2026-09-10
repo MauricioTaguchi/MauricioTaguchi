@@ -392,7 +392,9 @@ The provider links below are certification and learning resources. No AWS, Oracl
 
 <div align="center">
 
-[![View Contribution Activity](https://img.shields.io/badge/View_Contribution_Activity-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MauricioTaguchi?tab=overview)
+<a href="https://github.com/MauricioTaguchi?tab=overview">
+  <img width="100%" src="https://raw.githubusercontent.com/MauricioTaguchi/MauricioTaguchi/main/assets/activity-graph.svg" alt="Maurício Taguchi's recent GitHub contribution activity" />
+</a>
 
 </div>
 
