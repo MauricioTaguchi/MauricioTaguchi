@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/MauricioTaguchi">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6D28D9,100:4338CA&amp;height=230&amp;section=header&amp;text=Maur%C3%ADcio%20Taguchi&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Data%20Analyst%20%7C%20Power%20BI%2C%20SQL%20%26%20Python%20%7C%20ETL&amp;descSize=14&amp;descAlignY=57" alt="Maurício Taguchi — Data Analyst | Power BI, SQL &amp; Python | ETL" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6D28D9,100:4338CA&amp;height=230&amp;section=header&amp;text=Maur%C3%ADcio%20Taguchi&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Data%20Analyst%20%7C%20Power%20BI%2C%20SQL%20%26amp%3B%20Python%20%7C%20ETL&amp;descSize=14&amp;descAlignY=57" alt="Maurício Taguchi — Data Analyst | Power BI, SQL &amp; Python | ETL" />
 </a>
 
 <a href="https://github.com/MauricioTaguchi#about">
