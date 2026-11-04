@@ -30,7 +30,7 @@ SQL, Power BI and Python for data quality, reporting and automation
 
 ## About
 
-I'm **Maurício Taguchi**, a data analyst based in São Paulo, Brazil. During my internship at FIPE, I validated economic and collective bargaining data, investigated inconsistencies and helped build **Power BI and Excel** reports for researchers and managers. I used **SQL** to bring data sources together and **Python, R and Excel/VBA** to automate recurring preparation tasks. I hold a bachelor's degree in Computer Science from UNIP.
+I'm **Maurício Taguchi**, a data analyst based in São Paulo, Brazil, with a bachelor's degree in Computer Science from UNIP. During my internship at FIPE, I handled data quality checks for collective bargaining reports. I investigated inconsistent records, consolidated the data, and documented how I validated it. Researchers and managers used the resulting dataset to analyze trends and prepare reports.
 
 My personal projects explore the engineering behind this work. In **Income Analysis in Brazil**, I use official IBGE data to compare income across states and quarters. In **DataFlow**, I built a tool for inspecting data quality and tracing or reversing changes to a dataset.
 
