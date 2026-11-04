@@ -48,6 +48,8 @@ I'm open to **data analyst and business intelligence roles**, remote or based in
 
 This project compares real monthly earnings across Brazil’s 27 federal units. The Power BI report covers 20 quarters of IBGE/SIDRA data and passed all 15 DAX checks in Power BI Desktop.
 
+The Q1 2026 comparison gives each federal unit the same weight. The mean is BRL 3,437.41 across all 27 units and BRL 3,971.50 across the four in the Southeast. [Run the SQL comparison](https://github.com/MauricioTaguchi/analise-renda-brasil/blob/main/dashboard/power-bi/q1_2026_income_comparison.sql)
+
 The series starts in Q2 2021, so the report leaves year-over-year growth blank for that quarter. Showing 0% would imply that earnings were unchanged from Q2 2020, a quarter outside the dataset. [Check 14 in the DAX validation query](https://github.com/MauricioTaguchi/analise-renda-brasil/blob/main/dashboard/power-bi/BrazilIncome.SemanticModel/DAXQueries/Validar_BrazilIncome.dax#L20)
 
 [Case study](https://mauriciotaguchi.com.br/case-studies/brazil-income.html) · [Interactive dashboard](https://mauriciotaguchi.com.br/demos/income/) · [Download the Power BI report](https://raw.githubusercontent.com/MauricioTaguchi/analise-renda-brasil/main/dashboard/power-bi/BrazilIncome_Validado.pbix) · [Source code](https://github.com/MauricioTaguchi/analise-renda-brasil)
