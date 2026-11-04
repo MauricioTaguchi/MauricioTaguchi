@@ -25,10 +25,6 @@
 
 [Case studies](https://mauriciotaguchi.com.br/case-studies/) · [Technical blog](https://mauriciotaguchi.com.br/blog/)
 
-[![Profile views](https://komarev.com/ghpvc/?username=MauricioTaguchi&label=PROFILE+VIEWS&color=6d28d9&style=flat-square)](https://github.com/MauricioTaguchi)
-[![Followers](https://img.shields.io/github/followers/MauricioTaguchi?label=Followers&style=flat-square&color=7C3AED&labelColor=171329&logo=github&logoColor=white)](https://github.com/MauricioTaguchi?tab=followers)
-[![Stars](https://img.shields.io/github/stars/MauricioTaguchi?label=Total%20Stars&style=flat-square&color=4338CA&labelColor=171329&logo=github&logoColor=white)](https://github.com/MauricioTaguchi?tab=repositories)
-
 </div>
 
 ---
@@ -49,12 +45,14 @@ I'm looking for **junior Data Analyst and Business Intelligence roles**, remote 
 
 ## Featured Personal Projects
 
-<details open>
-<summary><strong>Brazil Income Analysis — Official IBGE Data Pipeline</strong></summary>
+### Brazil Income Analysis — Official IBGE Data Pipeline
 
-<br />
+This project compares real monthly earnings across Brazil’s 27 federal units. The Power BI report covers 20 quarters of IBGE/SIDRA data and passed all 15 DAX checks in Power BI Desktop.
 
-A reproducible data engineering and analytics case study using official IBGE SIDRA income data.
+[Case study](https://mauriciotaguchi.com.br/case-studies/brazil-income.html) · [Interactive dashboard](https://mauriciotaguchi.com.br/demos/income/) · [Download the Power BI report](https://raw.githubusercontent.com/MauricioTaguchi/analise-renda-brasil/main/dashboard/power-bi/BrazilIncome_Validado.pbix) · [Source code](https://github.com/MauricioTaguchi/analise-renda-brasil)
+
+<details>
+<summary>Pipeline details and tests</summary>
 
 | Dimension | Details |
 | :--- | :--- |
@@ -63,18 +61,19 @@ A reproducible data engineering and analytics case study using official IBGE SID
 | **Performance** | Bounded quarterly extraction and deterministic offline rebuilding from a committed source snapshot. |
 | **Security** | Public source data, pinned dependencies and automated dependency-update monitoring. |
 | **Impact** | Produces analytical datasets, a static dashboard and an executive summary with traceable source definitions. |
-| **Explore** | [Case study](https://mauriciotaguchi.com.br/case-studies/brazil-income.html) · [Interactive dashboard](https://mauriciotaguchi.com.br/demos/income/) · [Source code](https://github.com/MauricioTaguchi/analise-renda-brasil) |
 
 The pipeline separates **raw, staging and analytical layers**, validates coverage and invalid values, and preserves original responses for reprocessing. Official-series outputs are clearly distinguished from complementary synthetic portfolio examples. Tests enforce a configured **80% minimum coverage threshold**.
 
 </details>
 
-<details>
-<summary><strong>DataFlow — Data Analytics Platform</strong></summary>
-
-<br />
+### DataFlow — Data Analytics Platform
 
 A full-stack analytics workspace that takes a dataset from ingestion to validated transformations, interactive dashboards and PDF reporting.
+
+[Case study](https://mauriciotaguchi.com.br/case-studies/dataflow.html) · [Interactive demo](https://mauriciotaguchi.com.br/demos/dataflow/) · [Source code](https://github.com/MauricioTaguchi/data-analytics-platform)
+
+<details>
+<summary>Architecture and operating limits</summary>
 
 | Dimension | Details |
 | :--- | :--- |
@@ -83,11 +82,13 @@ A full-stack analytics workspace that takes a dataset from ingestion to validate
 | **Performance** | Asynchronous import, profiling, transformations and reports; cached coordination and paginated previews. |
 | **Security** | Tenant isolation, rotating refresh tokens, revoked sessions, rate limits and streamed upload validation. |
 | **Impact** | Connects data-quality inspection, reversible transformations, lineage and reporting in one reviewable product workflow. |
-| **Explore** | [Case study](https://mauriciotaguchi.com.br/case-studies/dataflow.html) · [Interactive demo](https://mauriciotaguchi.com.br/demos/dataflow/) · [Source code](https://github.com/MauricioTaguchi/data-analytics-platform) |
 
 The engineering centers on **recoverable data operations**: optimistic versions prevent conflicting changes, idempotency keys make retries explicit, and a transactional outbox preserves committed work during broker failures. Backend checks, frontend tests and desktop/mobile end-to-end journeys support the application. Deployment limits and operational responsibilities are documented.
 
 </details>
+
+<details>
+<summary><strong>More personal projects</strong></summary>
 
 <details>
 <summary><strong>MarketPulse — Market Data & Pipeline Observability</strong></summary>
@@ -189,6 +190,8 @@ Developed as a **DIO learning challenge**, the guide records prompt iterations, 
 
 </details>
 
+</details>
+
 ---
 
 ## Experience
@@ -211,7 +214,8 @@ Supported economic research and analytical operations through data collection, v
 - Built and maintained **Power BI dashboards, indicators and Excel reports**.
 - Applied **Excel/VBA and scripting** to automate recurring preparation and reporting steps.
 - Documented procedures and validation rules to support consistency and handover.
-- Used AI tools to assist analytical and documentation tasks with human review.
+
+The July 2024 Salariômetro bulletin lists me on the technical team. [FIPE bulletin, page 20 (PDF)](https://downloads.fipe.org.br/publicacoes/boletim-salariometro-202407.pdf#page=20)
 
 [![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4338CA?style=flat-square)](https://www.linkedin.com/in/mauriciotaguchi/)
@@ -230,7 +234,10 @@ Supported economic research and analytical operations through data collection, v
 
 ---
 
-## Tech Stack
+## More about my work
+
+<details>
+<summary><strong>Technology stack</strong></summary>
 
 ### Languages
 
@@ -286,9 +293,10 @@ Supported economic research and analytical operations through data collection, v
 
 **Cloud development:** Azure SQL training; continuing study of AWS data engineering, including Glue and Athena.
 
----
+</details>
 
-## AI / ML Expertise
+<details>
+<summary><strong>AI and machine learning projects</strong></summary>
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
@@ -300,9 +308,10 @@ Supported economic research and analytical operations through data collection, v
 | **Prompt engineering & source review** | Applied learning project | [NotebookLM study guide](https://github.com/MauricioTaguchi/miniguia-financas-notebooklm) with curated sources, reusable prompts, response refinement and manual verification. |
 | **Machine-learning foundations** | Continuing development | Feature preparation, model evaluation and scikit-learn experimentation; emphasis on reproducibility and evidence before deployment. |
 
----
+</details>
 
-## Achievements
+<details>
+<summary><strong>Education and project milestones</strong></summary>
 
 <div align="center">
 
@@ -316,11 +325,19 @@ Supported economic research and analytical operations through data collection, v
 
 </div>
 
----
+</details>
 
-## GitHub Analytics
+<details>
+<summary><strong>GitHub activity</strong></summary>
 
 <div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=MauricioTaguchi&label=PROFILE+VIEWS&color=6d28d9&style=flat-square)](https://github.com/MauricioTaguchi)
+[![Followers](https://img.shields.io/github/followers/MauricioTaguchi?label=Followers&style=flat-square&color=7C3AED&labelColor=171329&logo=github&logoColor=white)](https://github.com/MauricioTaguchi?tab=followers)
+[![Stars](https://img.shields.io/github/stars/MauricioTaguchi?label=Total%20Stars&style=flat-square&color=4338CA&labelColor=171329&logo=github&logoColor=white)](https://github.com/MauricioTaguchi?tab=repositories)
+
+<br />
+
 
 <a href="https://github.com/MauricioTaguchi">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MauricioTaguchi&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;icon_color=818CF8&amp;border_radius=12" alt="Maurício Taguchi's GitHub statistics" />
@@ -344,7 +361,7 @@ Supported economic research and analytical operations through data collection, v
 
 ---
 
-## GitHub Trophies
+### GitHub trophies
 
 <div align="center">
 
@@ -356,7 +373,7 @@ Supported economic research and analytical operations through data collection, v
 
 ---
 
-## Contribution Activity
+### Contribution activity
 
 <div align="center">
 
@@ -365,6 +382,8 @@ Supported economic research and analytical operations through data collection, v
 </a>
 
 </div>
+
+</details>
 
 ---
 
