@@ -1,12 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/MauricioTaguchi">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6D28D9,100:4338CA&amp;height=230&amp;section=header&amp;text=Maur%C3%ADcio%20Taguchi&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Data%20Analyst%20%7C%20Power%20BI%2C%20SQL%20%26amp%3B%20Python%20%7C%20ETL&amp;descSize=14&amp;descAlignY=57" alt="Maurício Taguchi — Data Analyst | Power BI, SQL &amp; Python | ETL" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,50:6D28D9,100:4338CA&amp;height=230&amp;section=header&amp;text=Maur%C3%ADcio%20Taguchi&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=52" alt="Maurício Taguchi" />
 </a>
 
-<a href="https://github.com/MauricioTaguchi#about">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=52&amp;lines=Data+Analyst+%7C+Power+BI%2C+SQL+%26+Python+%7C+ETL;Turning+data+into+clear+decisions.;Data+quality%2C+automation+and+analytics." alt="Animated introduction: data analysis, Power BI, SQL, Python, ETL and automation" />
-</a>
+<strong>Data Analyst · Business Intelligence</strong><br />
+SQL, Power BI and Python for data quality, reporting and automation
 
 <br />
 
@@ -31,13 +30,13 @@
 
 ## About
 
-I'm **Maurício Taguchi**, a data analyst and Computer Science graduate from UNIP in São Paulo, Brazil. I work with **SQL, Python, Power BI and Excel** to clean and validate data, automate recurring tasks and build dashboards. At FIPE, I prepared economic and collective bargaining data for researchers and managers.
+I'm **Maurício Taguchi**, a data analyst based in São Paulo, Brazil. During my internship at FIPE, I validated economic and collective bargaining data, investigated inconsistencies and helped build **Power BI and Excel** reports for researchers and managers. I used **SQL** to bring data sources together and **Python, R and Excel/VBA** to automate recurring preparation tasks. I hold a bachelor's degree in Computer Science from UNIP.
 
 My personal projects explore the engineering behind this work. In **Income Analysis in Brazil**, I use official IBGE data to compare income across states and quarters. In **DataFlow**, I built a tool for inspecting data quality and tracing or reversing changes to a dataset.
 
 ### Open To
 
-I'm looking for **junior Data Analyst and Business Intelligence roles**, remote or based in São Paulo. I also offer freelance data analysis and automation services.
+I'm open to **data analyst and business intelligence roles**, remote or based in São Paulo. I also offer freelance data analysis and automation services.
 
 **Languages** · Portuguese (native) · English (advanced) · Spanish (basic)
 
@@ -48,6 +47,8 @@ I'm looking for **junior Data Analyst and Business Intelligence roles**, remote 
 ### Brazil Income Analysis — Official IBGE Data Pipeline
 
 This project compares real monthly earnings across Brazil’s 27 federal units. The Power BI report covers 20 quarters of IBGE/SIDRA data and passed all 15 DAX checks in Power BI Desktop.
+
+The series starts in Q2 2021, so the report leaves year-over-year growth blank for that quarter. Showing 0% would imply that earnings were unchanged from Q2 2020, a quarter outside the dataset. [Check 14 in the DAX validation query](https://github.com/MauricioTaguchi/analise-renda-brasil/blob/main/dashboard/power-bi/BrazilIncome.SemanticModel/DAXQueries/Validar_BrazilIncome.dax#L20)
 
 [Case study](https://mauriciotaguchi.com.br/case-studies/brazil-income.html) · [Interactive dashboard](https://mauriciotaguchi.com.br/demos/income/) · [Download the Power BI report](https://raw.githubusercontent.com/MauricioTaguchi/analise-renda-brasil/main/dashboard/power-bi/BrazilIncome_Validado.pbix) · [Source code](https://github.com/MauricioTaguchi/analise-renda-brasil)
 
