@@ -71,9 +71,9 @@ The pipeline separates **raw, staging and analytical layers**, validates coverag
 
 ### DataFlow — Data Analytics Platform
 
-A full-stack analytics workspace that takes a dataset from ingestion to validated transformations, interactive dashboards and PDF reporting.
+In the [interactive demo](https://mauriciotaguchi.com.br/demos/dataflow/), you can spot missing values and duplicates in a sample dataset, preview a cleanup step, then apply it and undo it from the change history.
 
-[Case study](https://mauriciotaguchi.com.br/case-studies/dataflow.html) · [Interactive demo](https://mauriciotaguchi.com.br/demos/dataflow/) · [Source code](https://github.com/MauricioTaguchi/data-analytics-platform)
+[Case study](https://mauriciotaguchi.com.br/case-studies/dataflow.html) · [Source code](https://github.com/MauricioTaguchi/data-analytics-platform)
 
 <details>
 <summary>Architecture and operating limits</summary>
